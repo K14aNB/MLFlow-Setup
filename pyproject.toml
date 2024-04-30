@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mlflow-setup"
+name = "mlflow_setup"
 version = "0.1.0"
 description = "Python script to perform MLFlow setup on Colab and Jupyter runtime environments"
 authors = ["K14aNB <kirnb@protonmail.com>"]
